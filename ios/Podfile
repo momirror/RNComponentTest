@@ -1,0 +1,8 @@
+
+ platform :ios, '8.0'
+
+target 'RNComponentTest' do
+pod 'RNComponentA', :path => '../node_modules/rncomponenta/ios'
+  
+end
+

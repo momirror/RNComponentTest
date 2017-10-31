@@ -1,0 +1,27 @@
+{
+  "name": "RNComponentA",
+  "version": "0.1.0",
+  "summary": "RNComponentA.",
+  "description": "Demo for React native module",
+  "license": {
+    "type": "None",
+    "file": "License"
+  },
+  "homepage": "https://github.com/momirror/RNComponentAPod",
+  "authors": {
+    "momirror": "471488376@qq.com"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source": {
+    "git": "https://github.com/momirror/RNComponentAPod.git",
+    "tag": "0.1.0"
+  },
+  "source_files": "RNComponentA/Classes/**/*.{h,m}",
+  "dependencies": {
+    "React": [
+
+    ]
+  }
+}

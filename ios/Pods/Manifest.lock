@@ -1,0 +1,21 @@
+PODS:
+  - React (0.11.0):
+    - React/Core (= 0.11.0)
+  - React/Core (0.11.0)
+  - RNComponentA (0.1.0):
+    - React
+
+DEPENDENCIES:
+  - RNComponentA (from `../node_modules/rncomponenta/ios`)
+
+EXTERNAL SOURCES:
+  RNComponentA:
+    :path: ../node_modules/rncomponenta/ios
+
+SPEC CHECKSUMS:
+  React: ab1a2e21deb34965c38328d5ec40cc7d12c6050a
+  RNComponentA: 4b751a5b484a72827a880dc8b33044ad5cf89d5b
+
+PODFILE CHECKSUM: a2897d11e3232f7220c65ae8c477fa89bb237fbb
+
+COCOAPODS: 1.3.1
